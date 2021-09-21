@@ -69,3 +69,20 @@ class Lab13
     f.print();
   }
 }
+
+
+
+OUTPUT
+
+Z:\mca16.java>javac Lab13.java
+
+Z:\mca16.java>java Lab13
+player id is1
+player name isvasu
+cricket player age is24
+player id is2
+player name issiva
+hockey player weight is60
+player id is3
+player name iskhan
+football player height is6
